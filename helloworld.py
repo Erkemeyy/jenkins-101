@@ -1,2 +1,2 @@
 
-print("My name is gas")
+print("hi")
